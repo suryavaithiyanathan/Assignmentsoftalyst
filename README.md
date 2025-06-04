@@ -14,8 +14,8 @@ AWS services to create :
 
 Structure of the project : 
 Assignmentsoftalyst
-├── main.tf
-├── variables.tf
-├── output.tf
-├── provider.tf
-└── README.md
+-main.tf
+-provider.tf
+-output.tf
+-README.md
+-variables.tf
